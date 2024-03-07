@@ -1,13 +1,14 @@
-<h1 align="center">General Mathematics</h1>
+<h1 align="center">Bryce's Method</h1>
 
 ## Features 
 - Tons of apps & games
 - History hider (About:Blank Cloak)
 - Sleek UI with good animations
 - Tab cloaker
-- Support page to help people
+- Support page to help people (General Mathematics vers, still works on here for the time being)
 - A working emulator
 - A chatroom
+- Modified by the G.O.A.T
 - And more!
 
 ## Suported Websites
